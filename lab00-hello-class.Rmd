@@ -103,7 +103,7 @@ usethis::create_from_github("https://github.com/bst-urmc/setup-check-assignment-
 
 # Data
 
-Now, for the statistics!!!
+Now, for the statistics!!! Is it really stat though? Looks like Data Science to me. 
 
 Read in some data.
 
